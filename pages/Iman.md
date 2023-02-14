@@ -33,3 +33,8 @@ normal text
 
 ![](/images/Rockestra_A1poster_25Feb2023.png)
 
+
+make sure image width lesser than 720p
+image size to be lesser than 5MB
+
+
