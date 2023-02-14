@@ -17,4 +17,3 @@ Click [here](https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/an
 | Weekends | 7am-9am, 5pm-7pm|
 
 ![piggy picture](/images/piggy.png)
-
