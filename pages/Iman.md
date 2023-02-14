@@ -39,3 +39,4 @@ make sure image width lesser than 720p
 
 image size to be lesser than 5MB
 
+files (.pdf) size up to 5MB
