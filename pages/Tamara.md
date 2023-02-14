@@ -5,7 +5,7 @@ description: ""
 ---
 > Hello
 
-**I want to gooo homeee**
+**Bye**
 
 
 | No. | Item | Description |
@@ -19,7 +19,7 @@ description: ""
 *italics*
 
 # head
-## smaller head
+## small head
 ### tiny head
 
 Hyperlinks:
