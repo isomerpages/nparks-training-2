@@ -3,3 +3,33 @@ title: Iman
 permalink: /imansamsi/
 description: ""
 ---
+# Hello
+## medium header
+### small header
+#### smaller header
+##### much smaller header
+
+normal text
+
+**bold text**
+
+*woooo we are in italics*
+
+~~striked out text~~
+
+
+[Link to Google](www.google.com)
+
+[**Bold Link to Google**](www.google.com)
+
+
+
+
+
+| Column 1 | Column 2 | Column 3 | collumn 4 | column 5
+| -------- | -------- | -------- |-------- | -------- |
+| Text     | Text     | Text     | text     | Text
+
+
+![](/images/Rockestra_A1poster_25Feb2023.png)
+
